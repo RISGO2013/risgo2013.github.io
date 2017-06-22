@@ -1,0 +1,78 @@
+.full {
+        height: 800px;
+        width: 550px;
+        background-color: #C0DCA2;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -o-border-radius: 10px;
+        border-radius: 10px;
+      }
+      .tableR {
+        width: 100%;
+        height: 100%;
+      }
+      .leftSide {
+        width: 30%;
+        height: 50px;
+      }
+      .rightSide {
+        width: 70%;
+        height: 50px;
+      }
+      .tabs ul {
+        position: relative;
+        padding: 0;
+        list-style: none;
+        margin: 0;
+      }
+      .tabs li {
+        float: left;
+        padding: 0px 10px 0px 10px;
+      }
+      .tabs li a {
+        text-decoration: none;
+        color: #78846C;
+        font-weight: bold;
+      }
+      .tabs li:hover a {
+        color: white;
+      }
+      li.active a {
+        color: #48635E;
+      }
+      .leftSide1 {
+        width: 30%;
+      }
+      .rightSide1 {
+        width: 70%;
+      }
+      .table2 {
+        width: 100%;
+        height: 100%;
+      }
+      .colm1 {
+        height: 100px;
+        width: 100%;
+      }
+      .table2 {
+        border-width: thin;
+        border-spacing: 1px;
+        border-style: outset;
+        border-color: gray;
+        border-collapse: separate;
+        background-color: #F7FFED;
+      }
+      .ww{
+        text-align: center;
+      }
+      .table2 td
+      {
+        height: 40 !important;
+        padding: 13px 0px 13px 0px;
+      }
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
